@@ -8,7 +8,7 @@
 
 I'm a third-year Mathematics and Computer Science student at the University of Abomey-Calavi, specializing in backend development. I'm passionate about building robust APIs, database management, and clean architecture.
 
-- 🎓 **Education:** Licence 3 in Mathematics, Computer Science and Applications
+- 🎓 **Education:** Licence 3 in Mathematics, Computer Science and Applications at University of Abomey-Calavi
 - 📍 **Location:** Cotonou, Benin
 - 💼 **Availability:** August 2025 - January 2026 (6-month internship)
 - 🌱 **Currently Learning:** Advanced Django, API design, and database optimization
@@ -41,7 +41,7 @@ Personal portfolio website showcasing my work and skills (HTML, CSS, JavaScript)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RYV8&show_icons=true&theme=default&hide_border=true)
+![GitHub statistics showing commit activity and language usage](https://github-readme-stats.vercel.app/api?username=RYV8&show_icons=true&theme=default&hide_border=true)
 
 ## 📫 Get in Touch
 
