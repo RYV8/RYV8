@@ -2,7 +2,7 @@
 
 <h1>Romaric VOSSANOU</h1>
 
-<h3>Data & Machine Learning Engineer | Computer Vision | Mathematical Modeling | Backend AI Systems</h3>
+<h3>Data & Machine Learning Engineer | Computer Vision | Mathematical Modeling | Backend Dev</h3>
 
 <p>
 Designing mathematically grounded and scalable intelligent systems.
